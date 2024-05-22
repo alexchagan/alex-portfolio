@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png",
+    "level": "pro"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png",
+    "level": "pro"
+  },
+  {
+    "title": "FastAPI",
+    "imageSrc": "skills/fastapi.png",
+    "level": "pro"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png",
+    "level": "adv"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png",
+    "level": "pro"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png",
+    "level": "pro"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png",
+    "level": "adv"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png",
+    "level": "adv"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png",
+    "level": "beg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "level": "beg"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png",
+    "level": "beg"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png",
+    "level": "adv"
+  }
+  
+]

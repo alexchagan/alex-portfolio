@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Fullstack Engineer",
+    "organisation": "SymbolStory",
+    "startDate": "Jul, 2023",
+    "endDate": "Present",
+    "experiences": ["Microservices development", "Web Application development", "Generative AI integration", "NoSQL Database management", "Unit Testing, CI/CD, Cloud deployment"],
+    "imageSrc": "history/symbolstory.png"
+  },
+  {
+    "role": "Backend Engineer",
+    "organisation": "Libonea AI",
+    "startDate": "Nov, 2021",
+    "endDate": "Apr, 2023",
+    "experiences": ["ML models development + deployment", "RESTful APIs design + development", "SQL Database management", "AWS Serverless deployment", "Unit/Integration testing, CI/CD, MLops"],
+    "imageSrc": "history/libonea.png"
+  }
+
+]
