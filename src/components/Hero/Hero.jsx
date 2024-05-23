@@ -9,7 +9,7 @@ export const Hero = () =>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Alex</h1>
                 <p className={styles.description}>
-                    I'm a software developer with 2.5 years of experience.
+                    I'm a software developer with 2.5 years of experience.<br /> 
                     Proficient backend skills and basic frontend skills.<br />   
                     Python expert and a ML/AI enthusiast.  
                 </p>
