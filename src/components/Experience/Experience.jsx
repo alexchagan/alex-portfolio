@@ -18,7 +18,7 @@ export const Experience = () => {
           <span className={styles.yellowCircle}></span> Advanced
         </span>
         <span>
-          <span className={styles.greenCircle}></span> Beginner
+          <span className={styles.greenCircle}></span> Basic
         </span>
       </div>
 
@@ -31,7 +31,7 @@ export const Experience = () => {
               underlineClass = styles.redUnderline;
             } else if (skill.level === 'adv') {
               underlineClass = styles.yellowUnderline;
-            } else if (skill.level === 'beg') {
+            } else if (skill.level === 'bas') {
               underlineClass = styles.greenUnderline;
             }
 

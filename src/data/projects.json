@@ -1,26 +1,17 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Meal Planner App 🍎",
+    "imageSrc": "projects/mealplanner.png",
+    "description": "Easy way to plan meals using simple descriptions. ",
+    "skills": ["Python", "Flask", "NoSQL", "Typescript", "React"],
+    "source": "https://github.com/alexchagan/Meal-Planner-App"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Sports Classifier 🏈",
+    "imageSrc": "projects/sportsclass.png",
+    "description": "Training and deployment of an image classification model.",
+    "skills": ["Python", "Flask", "Javascript", "React"],
+    "source": "https://github.com/alexchagan/sports-images-classifier"
   }
+  
 ]

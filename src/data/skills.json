@@ -42,17 +42,17 @@
   {
     "title": "Azure",
     "imageSrc": "skills/azure.png",
-    "level": "beg"
+    "level": "bas"
   },
   {
     "title": "React",
     "imageSrc": "skills/react.png",
-    "level": "beg"
+    "level": "bas"
   },
   {
     "title": "Node",
     "imageSrc": "skills/node.png",
-    "level": "beg"
+    "level": "bas"
   },
   {
     "title": "Typescript",
