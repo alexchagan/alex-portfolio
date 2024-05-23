@@ -3,7 +3,7 @@
     "title": "Meal Planner App 🍎",
     "imageSrc": "projects/mealplanner.png",
     "description": "Easy way to plan meals using simple descriptions. ",
-    "skills": ["Python", "Flask", "NoSQL", "Typescript", "React"],
+    "skills": ["Python", "Flask", "MySQL", "Typescript", "React"],
     "source": "https://github.com/alexchagan/Meal-Planner-App"
   },
   {
