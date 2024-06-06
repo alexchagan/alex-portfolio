@@ -10,37 +10,16 @@ export const Experience = () => {
     <section className={styles.container} id="experience">
       <h2 className={styles.title}>Experience</h2>
 
-      <div className={styles.legend}>
-        <span>
-          <span className={styles.redCircle}></span> Proficient
-        </span>
-        <span>
-          <span className={styles.yellowCircle}></span> Advanced
-        </span>
-        <span>
-          <span className={styles.greenCircle}></span> Basic
-        </span>
-      </div>
-
       <div className={styles.content}>
         <div className={styles.skills}>
           {skills.map((skill, id) => {
-
-            let underlineClass = '';
-            if (skill.level === 'pro') {
-              underlineClass = styles.redUnderline;
-            } else if (skill.level === 'adv') {
-              underlineClass = styles.yellowUnderline;
-            } else if (skill.level === 'bas') {
-              underlineClass = styles.greenUnderline;
-            }
 
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
                   <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
                 </div>
-                <p className={underlineClass}>{skill.title}</p>
+                <p>{skill.title}</p>
               </div>
             );
           })}

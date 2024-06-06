@@ -9,9 +9,9 @@ export const Hero = () =>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Alex</h1>
                 <p className={styles.description}>
-                    I'm a software developer with 2.5 years of experience.<br /> 
-                    Proficient backend skills and basic frontend skills.<br />   
-                    Python expert and a ML/AI enthusiast.  
+                    I'm a fullstack software developer with 2.5 years of experience.<br /> 
+                    Specialize in backend development using Python and Flask.<br />   
+                    Emphasize on writing clean, readable, well documented code with effective error handling.  
                 </p>
                 <a href="mailto:alexchagan95@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>

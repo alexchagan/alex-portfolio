@@ -12,7 +12,7 @@
     "organisation": "Libonea AI",
     "startDate": "Nov, 2021",
     "endDate": "Apr, 2023",
-    "experiences": ["ML models development + deployment", "RESTful APIs design + development", "SQL Database management", "AWS Serverless deployment", "Unit/Integration testing, CI/CD, MLops"],
+    "experiences": ["ML models development + deployment", "RESTful APIs design + development", "SQL Database management", "Serverless deployment", "Unit/Integration testing, CI/CD, MLops"],
     "imageSrc": "history/libonea.png"
   }
 

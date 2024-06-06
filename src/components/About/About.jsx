@@ -7,11 +7,11 @@ export const About = () => {
     <section className={styles.container}>
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        <img 
+        {/* <img 
         src={getImageUrl("about/aboutImage.png")}
         alt="Me at a lecture"
         className={styles.aboutImage}
-        />
+        /> */}
         <ul className={styles.aboutItems}>
 
           <li className={styles.aboutItem}>
@@ -30,7 +30,7 @@ export const About = () => {
             />
             <div>
             <h3>Fullstack Developer</h3>
-            <p>Currently have 1 year of experience in developing a web application using React/NodeJS and Typescript. <br/> 80% Backend, 20% Frontend.</p>
+            <p>Currently working as a fullstack developer, working on an interactive web application using MERN stack. <br/> 80% Backend, 20% Frontend.</p>
             </div>
           </li>
 
